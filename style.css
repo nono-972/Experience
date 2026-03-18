@@ -11,7 +11,7 @@ body{
     background: radial-gradient(90deg,blue,blue,rgb(146, 5, 5));
 }
 header img{
-    width: 700px;
+    width: 100px;
 }
 
 header {
@@ -36,7 +36,7 @@ padding: 15px;
 }
 
 section img {
-width: 150px;
+width: 100px;
 margin: 1rem;
 }
 
