@@ -1,0 +1,42 @@
+html {
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+body{
+    background: linear-gradient(40deg,blue,rgb(146, 5, 5),rgb(146, 5, 5));
+    background: radial-gradient(90deg,blue,blue,rgb(146, 5, 5));
+}
+header img{
+    width: 700px;
+}
+
+header {
+    padding: 10px;
+}
+
+main{
+    background-color: white;
+}
+th, td{
+border: solid black 5px;
+}
+
+table {
+ margin: auto;
+ width: 40%;
+ border-collapse: collapse;
+}
+
+section {
+padding: 15px;
+}
+
+section img {
+width: 250px;
+margin: 1rem;
+}
+
