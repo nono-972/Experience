@@ -27,7 +27,7 @@ border: solid black 5px;
 
 table {
  margin: auto;
- width: 40%;
+ width: 20%;
  border-collapse: collapse;
 }
 
@@ -36,7 +36,7 @@ padding: 15px;
 }
 
 section img {
-width: 250px;
+width: 150px;
 margin: 1rem;
 }
 
